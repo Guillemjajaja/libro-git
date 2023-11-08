@@ -1,0 +1,54 @@
+[33mcommit e7f74b47580b00f2844245e9ca33011843c3fa11[m[33m ([m[1;36mHEAD -> [m[1;32mbibliografia[m[33m)[m
+Merge: 7327491 18a4e1d
+Author: Guillem-Jorques-Pardo <guillemjopa@gmail.com>
+Date:   Wed Nov 8 23:34:47 2023 +0100
+
+    Merge branch 'master' into bibliografia
+
+[33mcommit 732749134e67228d595a698a2296c487c091b44c[m
+Author: Guillem-Jorques-Pardo <guillemjopa@gmail.com>
+Date:   Wed Nov 8 23:32:12 2023 +0100
+
+    Añadida primera referencia bibliográfica.
+
+[33mcommit 18a4e1df7dedf3e9cf3539a04d4a4ff7f6030148[m[33m ([m[1;32mmaster[m[33m)[m
+Author: Guillem-Jorques-Pardo <guillemjopa@gmail.com>
+Date:   Wed Nov 8 23:16:38 2023 +0100
+
+    Borrado accidental
+
+[33mcommit 4cb8b12715cd4f6c572a52828ce7620ca085a1e8[m
+Author: Guillem-Jorques-Pardo <guillemjopa@gmail.com>
+Date:   Wed Nov 8 22:45:50 2023 +0100
+
+    Añadido capítulo 5 al índice
+
+[33mcommit 2c23c8ed72877c231d0c6da9f728f18f50ac6f69[m
+Author: Guillem-Jorques-Pardo <guillemjopa@gmail.com>
+Date:   Wed Nov 8 22:27:58 2023 +0100
+
+    Añadido capítulo 3
+
+[33mcommit 99adf213786e2d7e34eee77b6a5c50b91a0db62e[m
+Author: Guillem-Jorques-Pardo <guillemjopa@gmail.com>
+Date:   Wed Nov 8 22:11:24 2023 +0100
+
+    Añadido capítulo 2
+
+[33mcommit 0d0bd3ae7225783a60f7451f8cb40ed8304b2993[m
+Author: Guillem-Jorques-Pardo <guillemjopa@gmail.com>
+Date:   Wed Nov 8 22:06:51 2023 +0100
+
+    Añadido capitulo 1
+
+[33mcommit 811c5705c1f6df213dc6124c9d9cb2e0cb74204a[m
+Author: Guillem-Jorques-Pardo <guillemjopa@gmail.com>
+Date:   Wed Nov 8 20:26:23 2023 +0100
+
+    Añadido capítulo 3 sobre gestión de ramas al indice
+
+[33mcommit 3dba2fc448e74e8e4904ff6dddd4ce4709710159[m
+Author: Guillem-Jorques-Pardo <guillemjopa@gmail.com>
+Date:   Wed Nov 8 20:23:41 2023 +0100
+
+    Añadido índice del libro
